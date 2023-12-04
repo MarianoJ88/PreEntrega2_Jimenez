@@ -18,9 +18,9 @@ function VerificarEdad() {
 
 const peliculas = [
     { opcion: "1", titulo: "Barbie", sala: "Sala XD", precioBase: 1000 },
-    { opcion: "2", titulo: "La monja 2", sala: "Sala Premium", precioBase: 1200 },
+    { opcion: "2", titulo: "Napoleon", sala: "Sala Premium", precioBase: 1200 },
     { opcion: "3", titulo: "Elementos", sala: "Sala XD", precioBase: 1500 },
-    { opcion: "4", titulo: "Dracula", sala: "Sala 3D", precioBase: 900 }
+    { opcion: "4", titulo: "El Justiciero", sala: "Sala 3D", precioBase: 900 }
 ];
 
 function elegirPelicula(arrayPeliculas) {
